@@ -1,5 +1,5 @@
 
-#  Internship Day 1
+#  📈 Internship Day 1
 
 Welcome to Day 1 of my internship journey!  
 In this notebook, I focused on cleaning a dataset containing Netflix titles to prepare it for further analysis.
