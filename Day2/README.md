@@ -1,5 +1,6 @@
-# 📊 Sales Analysis Dashboard – Internship Day 2
+# Internship Day 2
 
+# 📊 Data Visualization and StoryTelling
 
 ## 🔹 Key Features
 
