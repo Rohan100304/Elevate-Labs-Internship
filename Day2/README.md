@@ -4,8 +4,8 @@
 An interactive Power BI dashboard showing sales insights including revenue, profit, quantity, category performance, and payment modes.
 
 ## 🔹 Key Features
-- **KPI Cards**: Total Amount, Profit, and Quantity
-- **Charts**:
+
+- **Charts Used**:
   - Quantity by Category (Pie)
   - Profit by Month (Bar)
   - Profit by Payment Mode (Donut)
