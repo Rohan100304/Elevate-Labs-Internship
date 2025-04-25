@@ -7,7 +7,7 @@ Design an interactive dashboard for business stakeholders using Power BI, focuse
 
 ## 📌 Dashboard Overview
 
-![Sales Dashboard](dashbord_SS.png)
+![Sales Dashboard](dashbord.png)
 
 This dashboard displays:
 - **Total Sales, Transactions, Average Transaction Value**
