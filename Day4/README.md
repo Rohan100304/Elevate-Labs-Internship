@@ -1,21 +1,29 @@
-# Day 3: SQL with Northwind Database
+# 📊 Internship Day 4 - Dashboard and Presentation
+
+## ✅ Objective
+Design an interactive dashboard for business stakeholders using Power BI, focused on analyzing sales performance and customer demographics.
 
 
-### Overview
-On Day 3, I worked with the **Northwind** database to deepen my understanding of SQL operations, focusing on data retrieval, joins, subqueries, views, and query optimization.
 
-### Key Tasks:
-- **Queries:** Used `SELECT`, `WHERE`, `ORDER BY`, and `GROUP BY` for data extraction and summarization.
-- **Joins:** Implemented `INNER JOIN`, `LEFT JOIN`, and `RIGHT JOIN` for combining tables.
-- **Subqueries:** Wrote subqueries to find products above average price and customers with more than 10 orders.
-- **Views:** Created views like `CustomersWithOrderCount` and `SalesPerProduct` to simplify complex queries.
+## 📌 Dashboard Overview
 
-### Tools Used:
-- **MySQL** and **Northwind database**
+![Sales Dashboard](dashbord SS.png)
 
-### Learnings:
-- Understanding the impact of joins and indexing on query performance.
-- Simplifying complex queries with views and subqueries.
+This dashboard displays:
+- **Total Sales, Transactions, Average Transaction Value**
+- **Sales Trend Over Time**
+- **Sales by Product Category**
+- **Customer Distribution by Gender**
+- **Quantity Sold by Category**
+- Filters for **Gender**, **Product Category**, and **Year**
 
 ---
+
+## 🔍 Key Insights
+- **Electronics** category leads with the highest sales.
+- **Clothing** records the highest quantity sold, suggesting popularity or lower price points.
+- Sales peaks occur in **March, May, and August**, indicating seasonal demand.
+- Gender distribution is **almost equal**, enabling balanced marketing strategies.
+
+
 
