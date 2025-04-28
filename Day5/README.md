@@ -5,7 +5,7 @@ This repo demonstrates the EDA process on a dataset to explore its structure, pa
 
 ## 🔑 EDA Steps
  **📥 Data Loading**  
-   - Import the dataset and preview with `head()`.
+   - Import the dataset and preview with `Pandas`.
 
  **🧹 Data Cleaning**  
    - Handle missing values, duplicates, and data types.
