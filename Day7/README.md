@@ -27,9 +27,7 @@ To learn and implement how Python can be used to:
 ## 📚 Key Concepts Covered
 
 - Establishing DB connection via Python
-- Executing `SELECT`, `INSERT`, `UPDATE`, and `DELETE` queries
 - Reading SQL data into pandas DataFrames
 - Writing DataFrames back to SQL tables
-- Using parameterized queries for secure operations
 
 ---
