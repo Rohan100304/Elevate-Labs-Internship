@@ -11,7 +11,7 @@ On the 8th day of my internship, I worked on building a **Simple Sales Dashboard
 
 ## 📷 Dashboard Preview:
 
-![Sales Dashboard](d22c407d-bb83-4792-85ae-7dde13f24a3d.png)
+![Sales Dashboard](dashbord.png)
 
 ## 📌 Key Learnings:
 - Practiced Power BI data modeling and transformation.
