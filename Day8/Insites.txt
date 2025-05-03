@@ -1,0 +1,32 @@
+1. Overview
+
+The dashboard presents an interactive and visual summary of sales data, helping stakeholders make informed decisions quickly.
+
+
+2. Sales by City
+
+The highest number of products were sold in Yonkers, followed by Westminster and York
+A steep drop in sales is observed after the top three cities, indicating a strong regional concentration.
+
+
+3. Category Distribution
+
+Office Supplies account for the majority of sales (63.32%), followed by Technology (20%) and Furniture (16.68%).
+This suggests the business may rely heavily on office supply sales and can explore expanding other categories.
+
+
+
+ 4. Monthly Sales Trends
+
+ Sales fluctuate month to month, with noticeable peaks in May and August.
+ A dip in sales is observed in April, suggesting potential for promotional activity in that month to boost performance.
+
+
+
+ 5. KPI Summary
+
+ Total Products Sold: 7,464
+ Total Sales: 2 Million
+ Total Orders: 1,960
+
+
